@@ -87,13 +87,6 @@ ul li.checked::before{
     background-image: url(images/checked.png);
 
 }
-
-
-
-
-
-
-
 .myinfo {
     position: absolute;
     bottom: 8px;
